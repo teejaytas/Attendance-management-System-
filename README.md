@@ -1,2 +1,2 @@
 # Attendance-management-System-
-Based on current Co-vid Senaio Student get notifya nad managee their activity through this Platrom
+Based on current Co-vid scenario Student get notify and manage their activity through this Platrom.
